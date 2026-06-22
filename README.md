@@ -54,15 +54,6 @@
 
 
 </div>
-
----
-
-## Current Focus
-
-- Data Structures & Algorithms
-- Full Stack Development
-- System Design
-- Software Engineering Internships
 ---
 
 <div align="center">
