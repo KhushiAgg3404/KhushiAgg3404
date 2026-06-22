@@ -1,38 +1,72 @@
-<h1 align="center">Hi 👋, I'm Khushi Aggarwal</h1>
-<h3 align="center">B.Tech ECE @ DTU | Full Stack Developer | AI Enthusiast</h3>
+<div align="center">
+
+# Hi, I'm Khushi Aggarwal
+
+### B.Tech Electronics & Communication Engineering @ Delhi Technological University
+
+</div>
+
+---
+
+## About Me
+
+- Fourth-year undergraduate at Delhi Technological University
+- Interested in Full Stack Development and Artificial Intelligence
+- Building web applications using the MERN stack
+- Regularly practicing Data Structures and Algorithms
+
+---
+## Connect With Me
 
 <p align="center">
-  <img src="YOUR_GIF_URL" width="400">
+  <a href="https://www.linkedin.com/in/khushi-aggarwal3404" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  
+  <a href="mailto:khushiaggarwal2025@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" height="50" />
+  </a>
+  
+  <a href="https://github.com/KhushiAgg3404" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
 </p>
 
-### 👩‍💻 About Me
+## Languages & Tools
 
-- 🎓 Third Year B.Tech ECE at DTU
-- 💻 Interested in Full Stack Development & AI
-- 🌱 Currently learning System Design & GenAI
-- 🏆 Solving DSA problems daily
-- 📫 Reach me: your-email@gmail.com
+<div align="center">
 
-### 🚀 Tech Stack
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
-</p>
+</div>
 
-### 🌟 Featured Projects
+---
 
-- 🔗 NexURL – MERN URL Shortener
-- 🤖 QuizWhiz – AI Quiz Generator using Gemini
-- 💸 Splitzy – Expense Splitting App
-- 🌦️ Weather Insight – Weather Forecast App
+## GitHub Statistics
 
-### 📊 GitHub Stats
+<div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiAgg3404&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=KhushiAgg3404&theme=tokyonight&hide_border=true"/>
 
-### 🤝 Connect With Me
+</div>
 
-[LinkedIn](YOUR_LINKEDIN)
 
+</div>
+
+---
+
+## Current Focus
+
+- Data Structures & Algorithms
+- Full Stack Development
+- System Design
+- Software Engineering Internships
+---
+
+<div align="center">
+
+*"Building projects, improving problem-solving skills, and learning something new every day."*
+
+</div>
