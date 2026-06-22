@@ -1,37 +1,38 @@
 <h1 align="center">Hi 👋, I'm Khushi Aggarwal</h1>
+<h3 align="center">B.Tech ECE @ DTU | Full Stack Developer | AI Enthusiast</h3>
 
-<h3 align="center">
-B.Tech ECE @ DTU | Full Stack Developer | AI Enthusiast
-</h3>
-
----
+<p align="center">
+  <img src="YOUR_GIF_URL" width="400">
+</p>
 
 ### 👩‍💻 About Me
 
 - 🎓 Third Year B.Tech ECE at DTU
 - 💻 Interested in Full Stack Development & AI
-- 🌱 Learning System Design and GenAI
-- 🏆 Solving DSA regularly
-
----
+- 🌱 Currently learning System Design & GenAI
+- 🏆 Solving DSA problems daily
+- 📫 Reach me: your-email@gmail.com
 
 ### 🚀 Tech Stack
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
 
-<!--
-**KhushiAgg3404/KhushiAgg3404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Featured Projects
 
-Here are some ideas to get you started:
+- 🔗 NexURL – MERN URL Shortener
+- 🤖 QuizWhiz – AI Quiz Generator using Gemini
+- 💸 Splitzy – Expense Splitting App
+- 🌦️ Weather Insight – Weather Forecast App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+### 🤝 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN)
+
